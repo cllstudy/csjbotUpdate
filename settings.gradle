@@ -1,0 +1,3 @@
+include ':csjbotupdate'
+include ':app'
+rootProject.name = "csjUpdate"
